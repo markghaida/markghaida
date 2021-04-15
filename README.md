@@ -1,214 +1,99 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
+[![Gabriel's GitHub Banner](./header.png)](https://gabrielhicks.dev)
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
 
+My name is Gabriel, I'm an engineer who is interested in learning new technologies and meeting new people.
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+If you are interested in some of my work, you can find it [here](https://gabrielhicks.dev/)
 
+## 📝 Latest Blog Posts
 
+<br>
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+- [Processes, Threads, Deadlock, Semaphores, and More](https://medium.com/geekculture/processes-threads-deadlock-semaphores-and-more-f70be5395ef6?sk=2ff3c66c4ce4004d1f3d74e01112df40)
+- [Have you been a victim of blog scraping?](https://medium.com/swlh/have-you-been-a-victim-of-blog-scraping-7545e4c8bf96?sk=80a5390f1d179d2a3b3a77e0d79e6afa)
+- [Chasing Dreams During a Pandemic](https://dev.to/gabrielhicksdev/chasing-dreams-during-a-pandemic-19i4)
+- [Networking After Coding Bootcamp](https://dev.to/gabrielhicksdev/networking-after-coding-bootcamp-43de)
+- [Start Testing Your React Applications](https://dev.to/gabrielhicksdev/start-testing-your-react-applications-2g42)
+- [Become an Open Source contributor](https://dev.to/gabrielhicksdev/become-an-open-source-contributor-2l5o)
+- [Create-React-App vs Gatsby vs Next](https://dev.to/gabrielhicksdev/create-react-app-vs-gatsby-vs-next-5aeb)
+- [Anatomy of a Singly Linked List in JS](https://dev.to/gabrielhicksdev/anatomy-of-a-singly-linked-list-in-js-4apd)
+- [Stacks, Queues, and Linked Lists in JS](https://dev.to/gabrielhicksdev/stacks-queues-and-linked-lists-in-js-3h31)
+- [Adding HTML Content Dynamically in Rails 6 Using jQuery](https://dev.to/gabrielhicksdev/adding-html-content-dynamically-in-rails-6-using-jquery-kfm)
+- [How to Access Spotify’s Web API Using Ruby, RESTClient, and JSON](https://dev.to/gabrielhicksdev/client-side-api-authorization-using-spotify-s-web-api-1ejf)
 
-  <h3 align="center">Best-README-Template</h3>
+<br>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
+## &#x1f4c8; GitHub Stats
 
+<br>
 
+<a href="https://github.com/gabrielhicks">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=gabrielhicks&theme=vue&show_icons=true&count_private=true" alt="Gabriel's Github Stats' />
+</a>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+<a href="https://github.com/gabrielhicks">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&langs_count=4&layout=compact&theme=vue" alt="Gabriel's Top Languages" />
+</a>
 
+<br>
+<br>
 
+## 💼 Technical Skills
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=00CCBB&color=00CCBB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=000000)
+![](https://img.shields.io/badge/Code-Capacitor.js-informational?style=flat&logo=Capacitor&color=119EFF)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
+![](https://img.shields.io/badge/Code-Expo-informational?style=flat&logo=Expo&color=000020)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&color=E10098)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br>
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+![](https://img.shields.io/badge/Style-Chakra--UI-informational?style=flat&logo=Chakra-UI&color=319795)
+![](https://img.shields.io/badge/Style-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=CC6699)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+<br>
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+![](https://img.shields.io/badge/Test-React_Testing_Library-informational?style=flat&logo=Testing-Library&color=E33332)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&color=C21325)
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+<br>
 
-### Built With
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
+![](https://img.shields.io/badge/Tools-AdobeXd-informational?style=flat&logo=Adobe-XD&color=FF61F6)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&color=0079BF)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&color=0052CC)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=Vercel&color=000000)
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+<br>
 
+## 🔭 I’m currently working on
+- A contracted B2B e-commerce platform using AWS Amplify, React, and Chakra-UI to service over 400 stores and their distributors. 
+- Using React/Next.js to develop a web application as well as React/Capacitor.js for a mobile application as an intern for a mental health startup called Whimser.
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+## 🌱 I’m currently learning
+- TypeScript
+- Testing
