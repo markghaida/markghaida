@@ -1,12 +1,14 @@
-[![Gabriel's GitHub Banner](./header.png)](https://gabrielhicks.dev)
+[![Mark's GitHub Banner]()](https://markghaida.com)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
+<h1 class="h-title glitch-effect" data-text="I'm Mark Ghaida">I'm Mark Ghaida</h1>
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/markghaida)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/mark-ghaida/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
 
-My name is Gabriel, I'm an engineer who is interested in learning new technologies and meeting new people.
+My name is Mark, I'm an engineer who is interested in learning new technologies and meeting new people.
 
-If you are interested in some of my work, you can find it [here](https://gabrielhicks.dev/)
+If you are interested in some of my work, you can find it [here](https://markghaida.com/)
 
 ## 📝 Latest Blog Posts
 
