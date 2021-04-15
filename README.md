@@ -1,6 +1,5 @@
 [![Mark's GitHub Banner](https://imgur.com/A1xunAt)](https://markghaida.com)
-<blockquote class="imgur-embed-pub" lang="en" data-id="A1xunAt" data-context="false" ><a href="//imgur.com/A1xunAt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+https://imgur.com/A1xunAt
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
