@@ -22,9 +22,9 @@ If you are interested in some of my work, you can find it [here](https://markgha
 
 <br>
 
-- [Honeycomb 🐝 - An Alternative Bookmarking App](https://www.loom.com/share/c99014653d9b42ef8ad25c5ed7229a85)
+- [Honeycomb 🐝 - Search For Your Bookmarks Instead of Digging Through Lists](https://www.loom.com/share/c99014653d9b42ef8ad25c5ed7229a85)
 - [Friend Send 🗓 - Schedule All Your "Happy Birthday" Texts Ahead of Time](https://www.loom.com/share/fec06f99933648e2b9771e5e6561afaa?sharedAppSource=personal_library)
-- [Habibi Mezze 🧆 - Middle Eastern Bowl Ordering App](https://www.loom.com/share/400468d16b3546f298ecf976634fb0b1?sharedAppSource=personal_library)
+- [Habibi Mezze 🧆 - Middle Eastern Food Bowl Ordering App](https://www.loom.com/share/400468d16b3546f298ecf976634fb0b1?sharedAppSource=personal_library)
 
 <br>
 
