@@ -72,9 +72,9 @@ If you are interested in some of my work, you can find it [here](https://markgha
 <br>
 
 ## 🔭 I’m currently working on
-- A contracted B2B e-commerce platform using AWS Amplify, React, and Chakra-UI to service over 400 stores and their distributors. 
-- Using React/Next.js to develop a web application as well as React/Capacitor.js for a mobile application as an intern for a mental health startup called Whimser.
+- Exploring Python deeper to add AI to Honeycomb, improving the recommendation algorithm for a search input
+- Using Google Search API to display similar sites to a located bookmark
 
 ## 🌱 I’m currently learning
-- TypeScript
+- Beautiful Soup (Python Webscraping framework)
 - Testing
