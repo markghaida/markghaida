@@ -12,17 +12,19 @@ If you are interested in some of my work, you can find it [here](https://markgha
 
 <br>
 
-- [Processes, Threads, Deadlock, Semaphores, and More](https://medium.com/geekculture/processes-threads-deadlock-semaphores-and-more-f70be5395ef6?sk=2ff3c66c4ce4004d1f3d74e01112df40)
-- [Have you been a victim of blog scraping?](https://medium.com/swlh/have-you-been-a-victim-of-blog-scraping-7545e4c8bf96?sk=80a5390f1d179d2a3b3a77e0d79e6afa)
-- [Chasing Dreams During a Pandemic](https://dev.to/gabrielhicksdev/chasing-dreams-during-a-pandemic-19i4)
-- [Networking After Coding Bootcamp](https://dev.to/gabrielhicksdev/networking-after-coding-bootcamp-43de)
-- [Start Testing Your React Applications](https://dev.to/gabrielhicksdev/start-testing-your-react-applications-2g42)
-- [Become an Open Source contributor](https://dev.to/gabrielhicksdev/become-an-open-source-contributor-2l5o)
-- [Create-React-App vs Gatsby vs Next](https://dev.to/gabrielhicksdev/create-react-app-vs-gatsby-vs-next-5aeb)
-- [Anatomy of a Singly Linked List in JS](https://dev.to/gabrielhicksdev/anatomy-of-a-singly-linked-list-in-js-4apd)
-- [Stacks, Queues, and Linked Lists in JS](https://dev.to/gabrielhicksdev/stacks-queues-and-linked-lists-in-js-3h31)
-- [Adding HTML Content Dynamically in Rails 6 Using jQuery](https://dev.to/gabrielhicksdev/adding-html-content-dynamically-in-rails-6-using-jquery-kfm)
-- [How to Access Spotify’s Web API Using Ruby, RESTClient, and JSON](https://dev.to/gabrielhicksdev/client-side-api-authorization-using-spotify-s-web-api-1ejf)
+- [JSON: A Brief History, And a Look Into The Future](https://markghaida.medium.com/how-to-set-up-an-api-fetch-request-in-rails-3798ad10f079)
+- [Ruby: A 30,000-Foot View of Has-Many-Through Associations](https://markghaida.medium.com/ruby-a-30-000-foot-view-of-has-many-through-associations-a4395ec20732)
+- [How To Build a Navbar in Rails](https://markghaida.medium.com/how-to-create-a-simple-navigation-bar-in-a-rails-application-using-css-87ecf175aad)
+
+<br>
+
+## 📼 Project Demos
+
+<br>
+
+- [Honeycomb 🐝 - An Alternative Bookmarking App](https://www.loom.com/share/c99014653d9b42ef8ad25c5ed7229a85)
+- [Friend Send 🗓 - Schedule All Your "Happy Birthday" Texts Ahead of Time](https://www.loom.com/share/fec06f99933648e2b9771e5e6561afaa?sharedAppSource=personal_library)
+- [Habibi Mezze 🧆 - Middle Eastern Bowl Ordering App](https://www.loom.com/share/400468d16b3546f298ecf976634fb0b1?sharedAppSource=personal_library)
 
 <br>
 
