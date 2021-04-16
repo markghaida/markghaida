@@ -1,4 +1,4 @@
-[![Mark's GitHub Banner](https://imgur.com/A1xunAt)](https://markghaida.com)
+[![Mark's GitHub Banner](https://imgur.com/A1xunAt.gif)](https://markghaida.com)
 https://imgur.com/A1xunAt
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
