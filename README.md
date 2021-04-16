@@ -1,7 +1,8 @@
 [![Mark's GitHub Banner](https://imgur.com/A1xunAt.gif)](https://markghaida.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/markghaida)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/mark-ghaida/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=markghaida.markghaida)](https://markghaida.com)
 
 My name is Gabriel, I'm an engineer who is interested in learning new technologies and meeting new people.
 
