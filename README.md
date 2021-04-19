@@ -18,7 +18,7 @@ If you are interested in some of my work, you can find it [here](https://markgha
 
 <br>
 
-## 📼 Project Demos
+## ⭐️ Pinned Projects
 
 <br>
 
