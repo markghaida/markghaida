@@ -74,9 +74,12 @@ If you are interested in some of my work, you can find it [here](https://markgha
 <br>
 
 ## 🔭 I’m currently working on
+<br>
 - Exploring Python deeper to add AI to Honeycomb, improving the recommendation algorithm for a search input
 - Using Google Search API to display similar sites to a located bookmark
-
+<br>
 ## 🌱 I’m currently learning
+<br>
 - Beautiful Soup (Python Webscraping framework)
 - Testing
+<br>
