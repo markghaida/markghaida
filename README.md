@@ -22,9 +22,11 @@ If you are interested in some of my work, you can find it [here](https://markgha
 
 <br>
 
-- [Honeycomb 🐝 - Search For Your Bookmarks Instead of Digging Through Lists](https://www.loom.com/share/c99014653d9b42ef8ad25c5ed7229a85)
-- [Friend Send 🗓 - Schedule All Your "Happy Birthday" Texts Ahead of Time](https://www.loom.com/share/fec06f99933648e2b9771e5e6561afaa?sharedAppSource=personal_library)
-- [Habibi Mezze 🧆 - Middle Eastern Food Bowl Ordering App](https://www.loom.com/share/400468d16b3546f298ecf976634fb0b1?sharedAppSource=personal_library)
+- [Honeycomb 🐝 - Search For Your Bookmarks Instead of Digging Through Lists](https://github.com/markghaida/voronoi-frontend-)
+- [Friend Send 🗓 - Schedule All Your "Happy Birthday" Texts Ahead of Time](https://github.com/DanielYankiver/Forget-Me-Not)
+- [Habibi Mezze 🧆 - Middle Eastern Food Bowl Ordering App](https://github.com/markghaida/Mezze_Back_End)
+- [The Present Moment 🧘🏽‍♂️ - Daily Gratitude Journal](https://github.com/markghaida/daily-focus-frontend)
+- [IRS Webscraper 🏦 - Easily Download All Necessary IRS Forms You Need This Tax Year](https://github.com/markghaida/irs_scraper) 
 
 <br>
 
