@@ -25,7 +25,7 @@ If you are interested in some of my work, you can find it [here](https://markgha
 - [Honeycomb 🐝 - Search For Your Bookmarks Instead of Digging Through Lists](https://github.com/markghaida/voronoi-frontend-)
 - [Friend Send 🗓 - Schedule All Your "Happy Birthday" Texts Ahead of Time](https://github.com/DanielYankiver/Forget-Me-Not)
 - [Habibi Mezze 🧆 - Middle Eastern Food Bowl Ordering App](https://github.com/markghaida/Mezze_Back_End)
-- [The Present Moment 🧘🏽‍♂️ - Daily Gratitude Journal](https://github.com/markghaida/daily-focus-frontend)
+- [The Present Moment 🧘🏽‍♂️ - Daily Dose of Gratitude Through Journaling](https://github.com/markghaida/daily-focus-frontend)
 - [IRS Webscraper 🏦 - Easily Download All Necessary IRS Forms You Need This Tax Year](https://github.com/markghaida/irs_scraper) 
 
 <br>
