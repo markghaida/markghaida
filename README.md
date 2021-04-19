@@ -8,16 +8,6 @@ My name is Mark, I'm an engineer who is interested in learning new technologies 
 
 If you are interested in some of my work, you can find it [here](https://markghaida.com)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-- [JSON: A Brief History, And a Look Into The Future](https://markghaida.medium.com/how-to-set-up-an-api-fetch-request-in-rails-3798ad10f079)
-- [Ruby: A 30,000-Foot View of Has-Many-Through Associations](https://markghaida.medium.com/ruby-a-30-000-foot-view-of-has-many-through-associations-a4395ec20732)
-- [How To Build a Navbar in Rails](https://markghaida.medium.com/how-to-create-a-simple-navigation-bar-in-a-rails-application-using-css-87ecf175aad)
-
-<br>
-
 ## ⭐️ Pinned Projects
 
 <br>
@@ -27,6 +17,16 @@ If you are interested in some of my work, you can find it [here](https://markgha
 - [Habibi Mezze 🧆 - Middle Eastern Food Bowl Ordering App](https://github.com/markghaida/Mezze_Back_End)
 - [The Present Moment 🧘🏽‍♂️ - Daily Dose of Gratitude Through Journaling](https://github.com/markghaida/daily-focus-frontend)
 - [IRS Webscraper 🏦 - Easily Download All Necessary IRS Forms You Need This Tax Year](https://github.com/markghaida/irs_scraper) 
+
+<br>
+
+## 📝 Latest Blog Posts
+
+<br>
+
+- [JSON: A Brief History, And a Look Into The Future](https://markghaida.medium.com/how-to-set-up-an-api-fetch-request-in-rails-3798ad10f079)
+- [Ruby: A 30,000-Foot View of Has-Many-Through Associations](https://markghaida.medium.com/ruby-a-30-000-foot-view-of-has-many-through-associations-a4395ec20732)
+- [How To Build a Navbar in Rails](https://markghaida.medium.com/how-to-create-a-simple-navigation-bar-in-a-rails-application-using-css-87ecf175aad)
 
 <br>
 
