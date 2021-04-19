@@ -47,6 +47,8 @@ If you are interested in some of my work, you can find it [here](https://markgha
 
 ## 💼 Technical Skills
 
+<br>
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
